@@ -6,4 +6,3 @@ Explore technical deep-dives, clean code principles, and software design wisdom.
 
 - [Understanding Scalability](./blog/scalability)
 
->This is a test
