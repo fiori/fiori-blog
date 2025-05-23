@@ -24,8 +24,8 @@ jobs:
 
       - name: Commit and push updated docs/
         run: |
-          git config user.name "github-actions"
-          git config user.email "github-actions@github.com"
+          git config user.name "fiori-slave"
+          git config user.email "fiori-slave@github.com"
           git add docs/
           git commit -m "Update docs site" || echo "No changes to commit"
           git push
