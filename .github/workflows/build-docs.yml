@@ -1,4 +1,4 @@
-name: Build site and update docs/ for ${{ github.repository }}
+name: Build site and update docs/
 
 on:
   push:
