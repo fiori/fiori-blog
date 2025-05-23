@@ -29,8 +29,6 @@ You might not notice poor performance early on. But once your app gets popular, 
 
 ## 🏗️ Scalability in Practice
 
-Here’s a real-world scenario inspired by CS50:
-
 You’re building a search bar. Your first instinct might be to check each character of the query against every name in a list.
 
 But...
